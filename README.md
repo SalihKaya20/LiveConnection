@@ -21,7 +21,7 @@
 - Swagger / OpenAPI  
 
 
-### Configuration
+## Configuration
 
 Make sure to update `appsettings.json` and `appsettings.Development.json` with:
 
